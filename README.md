@@ -1,6 +1,5 @@
 # ListLength
 
-**TODO: Add description**
 
 ## Installation
 
